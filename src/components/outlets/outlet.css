@@ -1,0 +1,22 @@
+td,
+th {
+  width: 25%;
+  height: 40px;
+  border-bottom: 1px solid gray;
+  border-collapse: collapse;
+}
+tr > th {
+  background-color: gray;
+}
+tr:hover {
+  background-color: lightcyan;
+}
+table {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  width: 100%;
+}
+.outlets {
+  width: 70%;
+  margin: auto;
+}

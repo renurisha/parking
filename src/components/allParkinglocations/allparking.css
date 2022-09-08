@@ -1,0 +1,31 @@
+.locationImg {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+.locationImg img {
+  width: 100%;
+  height: 100%;
+}
+.locationImg span {
+  position: absolute;
+  top: 85%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 22x;
+  letter-spacing: 3;
+}
+.allParkContainer {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  margin: auto;
+ 
+  justify-content: space-around;
+}
+.allParkContainer div{
+    border: 2px solid gray;
+    padding: 5px;
+}

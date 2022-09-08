@@ -1,0 +1,48 @@
+{
+  "parkinglocation": [
+    {
+      "id": 1,
+      "location": "Street Mall Ranchi",
+      "outlets": [
+        {
+          "id": 1,
+          "name": "First Floor",
+          "totalParking": 50
+        },
+        {
+          "id": 2,
+          "name": "Second Floor",
+          "totalParking": 40
+        },
+        { "id": 3, "name": "Third Floor", "totalParking": 150 },
+        {
+          "id": 4,
+          "name": "BaseMent",
+          "totalParking": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "location": "Delhi NCR",
+      "outlets": [
+        {
+          "name": "First Floor",
+          "totalParking": 50
+        },
+        {
+          "name": "Second Floor",
+          "totalParking": 40
+        },
+        {
+          "name": "Third Floor",
+          "totalParking": 150
+        },
+        {
+          "name": "BaseMent",
+          "totalParking": 100
+        }
+      ]
+    }
+  ]
+}
